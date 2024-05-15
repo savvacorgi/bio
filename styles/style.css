@@ -2,9 +2,16 @@ body {
   background-color: black; 
 }
 
-.kf {
+div {
   font-family: "Press Start 2P", system-ui;
   font-weight: 400;
   font-style: normal;
   color: antiquewhite;
+}
+p {
+  font-size: 12px;
+  margin-top: 3%;
+}
+.pg {
+  margin-top: 14px;
 }
